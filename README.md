@@ -1,2 +1,2 @@
-# Python
-All my python stuff
+# Python-Fun
+Pyhton stuff used while learing
