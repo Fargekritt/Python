@@ -1,4 +1,4 @@
 # Python-Fun
-Pyhton stuff used while learning and eating cheese
+Pyhton stuff used while learning
 
 Author: Amund Myrbostad
